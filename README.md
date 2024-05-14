@@ -1,7 +1,11 @@
 Following is the directory structure
 
 design/ : contains the design file
+
+
 verification/ : contains relevant uvm_components
+
+
 sim/ : Simulation area. contains relevant scripts. Modelsim 2020.1 is used for this purpose. You might need to set the paths in run.do scripts 
 
 General Overview:
